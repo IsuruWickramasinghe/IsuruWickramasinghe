@@ -2,12 +2,12 @@
 
 <h2 align="center">Bringing Ideas to Life in Code | Full-stack Developer | Continuous Learner <br><br> Sri Lanka <img src="https://cdn.britannica.com/13/4413-004-3277D2EF/Flag-Sri-Lanka.jpg" height="16" /></h2>
 
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=isuruwebdev&color=red)](https://github.com/isuruwebdev)
+[![GitHub Followers](https://img.shields.io/github/followers/isuruwebdev?style=social)](https://github.com/isuruwebdev)
+
 <p align="center"><img height="200" alt="Coding" src="https://raw.githubusercontent.com/b1ink0/b1ink0/main/assets/grid-snake.svg"></p>
 
 ---
-
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=isuruwebdev&color=blueviolet)](https://github.com/isuruwebdev)
-[![GitHub Followers](https://img.shields.io/github/followers/isuruwebdev?style=social)](https://github.com/isuruwebdev)
 
 ```javascript
 const isuru = {
@@ -24,7 +24,7 @@ const isuru = {
         backEnd: {
             js: ["Node", "PHP", "Express"],
         },
-        devOps: "Docker🐳",
+        devOps: "Docker",
         databases: ["mongo", "MySql", "Firebase"],
         misc: ["Firebase", "php"]
     },
@@ -47,9 +47,9 @@ const isuru = {
 ---
 
 ![](https://github-contributor-stats.vercel.app/api?username=Isuruwebdev&limit=5&theme=discord&combine_all_yearly_contributions=true)<br>
-![](https://github-readme-stats.vercel.app/api?username=Isuruwebdev&theme=swift&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Isuruwebdev&theme=swift&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Isuruwebdev&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Isuruwebdev&theme=swift&hide_border=true&include_all_commits=false&count_private=false)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Isuruwebdev&theme=swift&hide_border=true)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Isuruwebdev&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br>
 
 ---
 
