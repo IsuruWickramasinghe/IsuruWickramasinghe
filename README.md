@@ -1,7 +1,6 @@
-![MasterHead](https://camo.githubusercontent.com/91c0c50639feb83c9675e648e989b35117171876f126c3af52a522f266f1aeb7/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a4f785437556a4977686b6c4b453864385346796f37672e676966)
+![MasterHead](https://github.com/isuruwebdev/isuruwebdev/blob/main/header.png?raw=true)
 
-<h1 align="center"><Hello! I'm Isuru Wickramasinghe</h1>
-<h2 align="center">Bringing Ideas to Life in Code | Full-stack Developer | Continuous Learner 📚 | from Sri Lanka <img src="https://cdn.britannica.com/13/4413-004-3277D2EF/Flag-Sri-Lanka.jpg" height="16" /></h2>
+<h2 align="center">Bringing Ideas to Life in Code | Full-stack Developer | Continuous Learner | from Sri Lanka <img src="https://cdn.britannica.com/13/4413-004-3277D2EF/Flag-Sri-Lanka.jpg" height="16" /></h2>
 
 <p align="center"><img height="200" alt="Coding" src="https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif"></p>
 
