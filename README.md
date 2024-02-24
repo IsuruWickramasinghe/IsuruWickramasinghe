@@ -7,6 +7,16 @@
 
 ---
 
+### Projects
+#####  [🔗 The Ikone](https://github.com/IsuruWickramasinghe/ikone)
+#####  [🔗 Induwa Arts](https://github.com/IsuruWickramasinghe/induwa-arts)
+#####  [🔗 Lecture Ease](https://github.com/IsuruWickramasinghe/lectureease)
+#####  [🔗 Redux Shopping Cart](https://github.com/IsuruWickramasinghe/redux-shopping-cart)
+#####  [🔗 Stock Management System - Java](https://github.com/IsuruWickramasinghe/simple-stock-management-java)
+#####  [🔗 Laraval CRUD App](https://github.com/IsuruWickramasinghe/php_laraval_crud_app)
+#####  [🔗 Candle Set](https://github.com/IsuruWickramasinghe/candle-lighting)
+#####  [🔗 SLIATE Kandy](https://github.com/IsuruWickramasinghe/sliate-kandy)
+
 ```javascript
 const isuru = {
     name: "Isuru Wickramasinghe",
@@ -87,6 +97,8 @@ const isuru = {
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsuruWickramasinghe&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br>
 
 ---
+
+
 
 
 
