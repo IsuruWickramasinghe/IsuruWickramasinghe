@@ -17,6 +17,8 @@
 #####  [🔗 Candle Set](https://github.com/IsuruWickramasinghe/candle-lighting)
 #####  [🔗 SLIATE Kandy](https://github.com/IsuruWickramasinghe/sliate-kandy)
 
+---
+
 ```javascript
 const isuru = {
     name: "Isuru Wickramasinghe",
