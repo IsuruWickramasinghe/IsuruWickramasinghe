@@ -31,14 +31,14 @@ const isuru = {
     technologies: {
         library: "React.js",
         framework: ["Next.js"],
-        backEnd: ["Node", "PHP", "Express"]
+        backEnd: ["Node", "PHP", "Express"],
         devOps: "Docker",
         databases: ["mongo", "MySql", "Firebase"],
-        misc: ["Firebase", "php"]
+        misc: ["Firebase", "php"],
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "www.theikone.com",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "There are two ways to write error-free programs; only the third one works",
 };
 ```
 
