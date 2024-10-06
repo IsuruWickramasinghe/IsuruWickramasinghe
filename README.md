@@ -8,8 +8,8 @@
 ---
 
 ### Projects
-#####  [🔗 The Ikone](https://github.com/IsuruWickramasinghe/ikone)https:
-#####  [🔗 TutesMaster](//github.com/IsuruWickramasinghe/tutesMaster)https:
+#####  [🔗 The Ikone](https://github.com/IsuruWickramasinghe/ikone)
+#####  [🔗 TutesMaster](https://github.com/IsuruWickramasinghe/tutesMaster)
 #####  [🔗 Induwa Arts](https://github.com/IsuruWickramasinghe/induwa-arts)
 #####  [🔗 Lecture Ease](https://github.com/IsuruWickramasinghe/lectureease)
 #####  [🔗 Redux Shopping Cart](https://github.com/IsuruWickramasinghe/redux-shopping-cart)
