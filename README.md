@@ -9,12 +9,12 @@
 const isuru = {
     name: "Isuru Wickramasinghe",
     designation: "ASE",
-    works for: "Qoria Lanka (pvt) ltd"
+    worksFor: "Qoria Lanka (pvt) ltd",
     location: "Sri Lanka, Kandy & Colombo",
     email: "isuruwebdev@gmail.com",
     phone: "+94-76-914-6712",
     technologies: {
-        lang: {ts, python, java, go, rust, js}
+        lang: {ts, python, java, go, rust, js},
         library: "React.js",
         framework: ["Next.js" , "Django", "React Native"],
         databases: ["postgresql", "mysql", "firebase", "mongodb"],
