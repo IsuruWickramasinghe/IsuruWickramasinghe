@@ -14,7 +14,7 @@ const isuru = {
     email: "isuruwebdev@gmail.com",
     phone: "+94-76-914-6712",
     technologies: {
-        lang: {"ts", "python", "java", "go", "rust", "js"},
+        lang: ["ts", "python", "java", "go", "rust", "js"],
         library: "React.js",
         framework: ["Next.js" , "Django", "React Native"],
         databases: ["postgresql", "mysql", "firebase", "mongodb"],
