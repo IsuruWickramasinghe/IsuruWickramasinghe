@@ -1,5 +1,5 @@
-
-<h2 align="center">Bringing Ideas to Life in Code | Full-stack Developer | Continuous Learner <br><br> Sri Lanka </h2>
+<h1> Hi! I'm Isuru, </h1>
+<h2 align="center">Bringing Ideas to Life in Code | Full-stack Developer | Continuous Learner</h2>
 
 ---
 
