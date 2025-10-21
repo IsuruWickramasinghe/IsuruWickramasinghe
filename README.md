@@ -1,5 +1,5 @@
-<h1> Hi! I'm Isuru, </h1>
-<h2 align="center">Bringing Ideas to Life in Code | Full-stack Developer | Continuous Learner</h2>
+<h1 align="center"> Hi! I'm Isuru</h1>
+<h4 align="center">Bringing Ideas to Life in Code | Full-stack Developer | Continuous Learner</h4>
 
 ---
 
