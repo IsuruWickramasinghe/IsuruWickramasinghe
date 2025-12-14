@@ -12,10 +12,10 @@ const isuru = {
     email: "isuruwebdev@gmail.com",
     phone: "+94-76-914-6712",
     technologies: {
-        lang: ["ts", "python", "java", "go", "rust", "js"],
+        lang: ["ts", "python", "java", "go", "rust", "dart"],
         library: "React.js",
-        framework: ["Next.js" , "Django", "React Native"],
-        databases: ["postgresql", "mysql", "firebase", "mongodb"],
+        framework: ["Next.js" , "Django", "React Native", "Flutter"],
+        databases: ["supabase, "firebase", "mongodb"],
     },
     funFact: "There are two ways to write error-free programs; only the third one works",
 };
