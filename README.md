@@ -15,7 +15,7 @@ const isuru = {
         lang: ["ts", "python", "java", "go", "rust", "dart"],
         library: "React.js",
         framework: ["Next.js" , "Django", "React Native", "Flutter"],
-        databases: ["supabase, "firebase", "mongodb"],
+        databases: ["supabase", "firebase", "mongodb"],
     },
     funFact: "There are two ways to write error-free programs; only the third one works",
 };
